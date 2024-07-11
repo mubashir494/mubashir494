@@ -5,7 +5,8 @@
 A Software Engineering student from Concordia University with a passion for constructing and implementing robust back-end solutions. My journey has spanned across projects related to SaaS, Utility services, E-Commerce apps, and Social media applications. Agile and Scrum are second nature to me!
 
 ### 💼 Professional Experience
-- **Fiverr**: Freelance Developer (Part-Time)
+- **Wyoming.com**: Full Stack Developer
+- **Remote Optometery**: Full Stack Developer
 - **Real Channel**: Technical Support Analyst (Part-Time)
 
 You can find a detailed overview of my purely personal projects [here](https://github.com/mubashir494).
@@ -17,6 +18,7 @@ You can find a detailed overview of my purely personal projects [here](https://g
 
 ### 👋🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/muhammad-mubashir-ab9431221)
+- [Portfolio](https://muhammadmubashir.vercel.app/)
 - 📩: [mubashirqbl@gmail.com]()
 
 <!--
